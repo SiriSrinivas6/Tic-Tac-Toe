@@ -22,9 +22,6 @@ This Java project is a simple implementation of a Tic-Tac-Toe game with a graphi
 ## Output
 ![Output](https://github.com/SiriSrinivas6/Tic-Tac-Toe/blob/5100b67bcfe0fffaf52f109b31df1e68f90fbc7e/Images/1.png)
 
-## Tic Tac Toe Game
-![Game](https://github.com/SiriSrinivas6/Tic-Tac-Toe/blob/e7e62610684e8392baf73414ffc51d17e24b0039/Images/2.png)
-
 ## Class Structure
 Game Class:
 turn: Indicates the current player's turn ('x' or 'o').
