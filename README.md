@@ -34,6 +34,7 @@ freeSpots: Count of empty spots on the board.
 gui: Graphical user interface instance.
 
 ## Sample Code
+![Code](https://github.com/SiriSrinivas6/Tic-Tac-Toe/blob/382fc9b3ddd222c3dad4ca6bc69f17c895ca0adc/Images/3.png)
 
 ## Contributing
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request.
