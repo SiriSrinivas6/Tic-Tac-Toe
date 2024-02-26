@@ -19,6 +19,8 @@ This Java project is a simple implementation of a Tic-Tac-Toe game with a graphi
 3. Follow on-screen instructions for gameplay.
    
 ## Game Screenshots
+# Output
+![Output](https://github.com/SiriSrinivas6/Tic-Tac-Toe/blob/5100b67bcfe0fffaf52f109b31df1e68f90fbc7e/Images/1.png)
 
 ## Class Structure
 Game Class:
